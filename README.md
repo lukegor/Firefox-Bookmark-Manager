@@ -10,7 +10,7 @@ This extension provides a powerful interface for users who need to manage massiv
 
 ## ⚠️ Compatibility
 
-Currently, this extension only supports Firefox. Chrome and other Chromium-based browsers are not supported at this time. Note: Manifest V3 is not supported.
+Currently, this extension only supports Firefox. Chrome and other Chromium-based browsers are not supported at this time. **Note**: Manifest V3 is not supported.
 
 ## 🛠 Installation (Developer Mode)
 
