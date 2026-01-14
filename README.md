@@ -1,4 +1,4 @@
-# Firefox Bookmark Manager
+# Bookmark Manager
 
 A developer-centric tool for advanced bookmark management, cleanup, and analytics directly via the Firefox DevTools console.
 
@@ -7,6 +7,10 @@ A developer-centric tool for advanced bookmark management, cleanup, and analytic
 ## 🚀 Overview
 
 This extension provides a powerful interface for users who need to manage massive bookmark libraries (thousands of items) where the standard browser UI lags or lacks functionality. It operates in the background, indexing bookmarks by domain and allowing for bulk operations via JavaScript commands.
+
+## ⚠️ Compatibility
+
+Currently, this extension only supports Firefox. Chrome and other Chromium-based browsers are not supported at this time. Note: Manifest V3 is not supported.
 
 ## 🛠 Installation (Developer Mode)
 
